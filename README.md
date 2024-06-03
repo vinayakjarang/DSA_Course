@@ -1,2 +1,0 @@
-# DSA_Course
-solutions
